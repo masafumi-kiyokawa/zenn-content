@@ -1,4 +1,11 @@
-# Zenn CLI
+# 概要
+Zennの記事を管理するためのリポジトリ
+
+# ページ
+https://zenn.dev/fujitsubozenn
+
+# 使い方のメモ
+## Zenn CLI
 
 * [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
